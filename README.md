@@ -1,1 +1,1 @@
-This is just for commit(ing) to do something just like an Hobby thing :) .
+This is just for commit(ing) to do something just like an Hobby Thing :) .
